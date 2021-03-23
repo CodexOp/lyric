@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/lyric/static/css/main.c864d664.chunk.css",
+    "main.js": "/lyric/static/js/main.48ea9f95.chunk.js",
+    "main.js.map": "/lyric/static/js/main.48ea9f95.chunk.js.map",
+    "runtime-main.js": "/lyric/static/js/runtime-main.86e99a1e.js",
+    "runtime-main.js.map": "/lyric/static/js/runtime-main.86e99a1e.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/lyric/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.d14b22d9.chunk.js": "/lyric/static/js/2.d14b22d9.chunk.js",
+    "static/js/2.d14b22d9.chunk.js.map": "/lyric/static/js/2.d14b22d9.chunk.js.map",
+    "static/js/3.46618733.chunk.js": "/lyric/static/js/3.46618733.chunk.js",
+    "static/js/3.46618733.chunk.js.map": "/lyric/static/js/3.46618733.chunk.js.map",
+    "index.html": "/lyric/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/lyric/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.c864d664.chunk.css.map": "/lyric/static/css/main.c864d664.chunk.css.map",
+    "static/js/2.d14b22d9.chunk.js.LICENSE.txt": "/lyric/static/js/2.d14b22d9.chunk.js.LICENSE.txt",
+    "static/media/1.45460ab4.jfif": "/lyric/static/media/1.45460ab4.jfif",
+    "static/media/2.f6429757.jfif": "/lyric/static/media/2.f6429757.jfif",
+    "static/media/3.0369cf9d.jfif": "/lyric/static/media/3.0369cf9d.jfif",
+    "static/media/4.f715abbe.jfif": "/lyric/static/media/4.f715abbe.jfif",
+    "static/media/5.8d03edaa.jfif": "/lyric/static/media/5.8d03edaa.jfif",
+    "static/media/6.e4435c3f.jfif": "/lyric/static/media/6.e4435c3f.jfif",
+    "static/media/7.1b25ce33.jfif": "/lyric/static/media/7.1b25ce33.jfif",
+    "static/media/8.ce26c6ab.jfif": "/lyric/static/media/8.ce26c6ab.jfif",
+    "static/media/hero.fa7ff447.png": "/lyric/static/media/hero.fa7ff447.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e99a1e.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.d14b22d9.chunk.js",
+    "static/css/main.c864d664.chunk.css",
+    "static/js/main.48ea9f95.chunk.js"
+  ]
+}
