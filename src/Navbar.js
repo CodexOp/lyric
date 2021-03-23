@@ -20,7 +20,7 @@ return(
       </label>
       <label className="logo"><h2>Lyrical</h2></label>
       <ul>
-       <Link to="/"> <li><a className="active" href="#homee">Home</a></li> </Link>
+       <Link to="/lyric"> <li><a className="active" href="#homee">Home</a></li> </Link>
        <li><a href="#songlist">List</a></li>
         <li><a href="#hotpicks">HotPicks</a></li>
         <li><a href="https://www.linkedin.com/in/tushar-nagar-web/">Contact</a></li>
